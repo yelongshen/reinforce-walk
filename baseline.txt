@@ -1,0 +1,14 @@
+baseline code:
+https://github.com/thunlp/KB2E
+
+TransE Translating Embeddings for Modeling Multi-relational Data 
+TransH 
+TransR 
+
+dataset:
+ReinforceWalk\FB237-cook1\train.rh.txt
+ReinforceWalk\FB237-cook1\test.rh.txt
+ReinforceWalk\FB237-cook1\valid.rh.txt
+
+ReinforceWalk\FB237-cook1\entity2id.txt
+ReinforceWalk\FB237-cook1\relation2id.txt

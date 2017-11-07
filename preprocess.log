@@ -1,0 +1,29 @@
+Step 1:
+usage: hub_threshold(int) output_path{str}
+remove hub nodes with over  25  neighbors
+cooked train data :  21329
+cooked test data :  1536
+cooked valid data :  1314
+usage: hub_threshold(int) output_path{str}
+remove hub nodes with over  50  neighbors
+cooked train data :  78940
+cooked test data :  5082
+cooked valid data :  4325
+usage: hub_threshold(int) output_path{str}
+remove hub nodes with over  100  neighbors
+cooked train data :  134609
+cooked test data :  8576
+cooked valid data :  7336
+usage: hub_threshold(int) output_path{str}
+remove hub nodes with over  200  neighbors
+cooked train data :  170479
+cooked test data :  11631
+cooked valid data :  9920
+usage: hub_threshold(int) output_path{str}
+remove hub nodes with over  400  neighbors
+cooked train data :  205795
+cooked test data :  14786
+cooked valid data :  12620
+
+
+Step 2:
